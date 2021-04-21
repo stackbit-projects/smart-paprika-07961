@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Hortaliças
 order: 2
 seo:
   title: Cactuses
