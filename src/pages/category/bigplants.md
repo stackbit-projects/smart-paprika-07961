@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Frutas
 order: 1
 seo:
   title: Big plants
